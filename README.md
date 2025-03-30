@@ -1,1 +1,1 @@
-Packages Used: Random Forest, Train Test Split, Simple Imputer, Ordinal Encoder
+Packages Used: Random Forest, Train Test Split, Simple Imputer, Ordinal Encoder, Pipeline
